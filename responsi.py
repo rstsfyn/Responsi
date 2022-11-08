@@ -1,3 +1,5 @@
+#RESTU SOFYAN MAARIF
+
 beli = []
 barang =[]
 diskon=a=total=diskon_tambah=jmlh_brg = 0 
@@ -120,3 +122,5 @@ while True:
     else:
         print("Terimaksih Telah Menggunakan Menu ini")
         break
+        
+  #MENUJU TAK TERBATAS MELAMPAUINNYA
